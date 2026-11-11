@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 20px;
-    font-family: 'Open Sans', sans-serif;   
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #1a1a1a;
 }
@@ -23,10 +23,9 @@ h1, h2, h3 {
     margin-top: 20px;
 }
 
-
 .block {
-    position: relative;          
-    padding: 15px 15px 70px 15px; 
+    position: relative;
+    padding: 15px 15px 70px 15px;
     min-height: 250px;
 }
 
@@ -39,13 +38,13 @@ h1, h2, h3 {
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 140px;                 
+    width: 140px;
     margin: 0;
     padding: 10px;
     text-align: center;
-    font-family: 'Playfair Display', serif;  
-    font-size: 1.2em;  
-    color: #ffffff; 
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+    color: #ffffff;
 }
 
 .block1 h4 { background-color: #7a4b00; }
